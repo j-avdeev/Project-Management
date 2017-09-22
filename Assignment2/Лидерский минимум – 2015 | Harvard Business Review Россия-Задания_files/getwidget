@@ -1,0 +1,1 @@
+uLogin.setWidget('2e8e7d62','',{"display":"panel","fields":"first_name,last_name,email","verify":"1","providers":"vkontakte,facebook,twitter","redirect_uri":""});
