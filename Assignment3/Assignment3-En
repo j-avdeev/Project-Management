@@ -1,0 +1,12 @@
+1. Install and run Redmine by any convenient for you way.
+You can use a ready-made virtual machine or docker-container provided by Bintami: https://bitnami.com/stack/redmine
+2. It is necessary to configure the Redmine system to send e-mail messages-notifications.
+http://www.redmine.org/projects/redmine/wiki/EmailConfiguration
+Yes, for the redmain, you will need to provide a login, an e-mail password, from which the redmine will send notifications to its users.
+3. Login to redmine as administrator and add new developer with the name and surname: Avdeev Eugeniy; e-mail: j-avdeev@yandex.ru
+If the Redmine e-mail settings correct, Redmine will send login and password information on e-mail address of new user.
+4. Create new project, add Avdeev Evgeniy to this project participants.
+5. Create a Task in the new created project and assign this task to Evdeniy Avdeev.
+
+As a result, two messages should be sent to j-avdeev@yandex.ru: about creating an user account in Redmine and about the assigned task.
+
