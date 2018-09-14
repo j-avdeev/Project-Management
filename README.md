@@ -31,3 +31,12 @@ Total:            100%
 ```
 
 ### Assignment Deadlines 'Autumn 2018
+
+|                                          |  1  | 2 | 3 | 4 |
+| ---------------------------------------- | --- | --- | --- | --- |
+| Soft Deadline (50% reduction if missed)  | 14.10.2018 | --- | --- | --- |
+| Hard Deadline (100% reduction if missed) | 14.10.2018 | --- | --- | --- |
+
+
+Results Table:
+<ToDO>
