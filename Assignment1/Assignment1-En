@@ -1,11 +1,16 @@
 Lab 1
 
-1. To come up with a project suitable for the "Умник" contest
-2. To make and submit the application for competition "Умник", till 1st November
-http://umnik.fasie.ru/novosti/samara/6442.html
-3. Make a screenshot of the application, send it to me for verification
+- To come up with a project
+- To make application, send it for verification
 
-To pass the semifinal "Умник" selection, to win, etc. - it is desirable, but for passing this laboratory workt - it is not necessary.
+Application contains the following info:
 
-For example, the projects of the winners of the last year of 2016
-http://umnik.fasie.ru/novosti/samara/3597.html
+1. Author's first, last name
+2. Project name
+3. Project scientific part
+3.1 Scientific objectives of the project
+3.2 Scientific novelty of the project
+4. Project commercial part
+4.1 Project results application, potential consumers
+4.2 Existing analogs, competitors
+4.3 Implementation plan by stages, time to implement, cost

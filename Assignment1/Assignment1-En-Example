@@ -1,0 +1,30 @@
+1. Author's first, last name
+Evgeniy Avdeev
+
+2. Project name
+Development of the international Internet-collection of opensource numerical modeling project templates with online sales possibility
+
+3. Project scientific part
+3.1 Scientific objectives of the project
+The goal of the project is to accelerate processes modelling and development of mechanisms, to reduce the time and costs on numerical modeling and analysis.
+The goal of the project will be achieved by creating a single library of template-projects of physical processes numerical modeling based on opensource software products.
+
+
+3.2 Scientific novelty of the project
+Mostly the results of calculations and the 3D models used in calculations are usually a commercial secret of enterprises. But is some cases calculation models can be shared without any restrictions.
+There are currently no Internet portals containing an ordered archive of such projects templates, which allows users to share their projects.
+
+4. Project commercial part
+4.1 Project results application, potential consumers
+The results of the project will be useful to anyone who deals with the design of complex technical devices or work with physical processes modelling: product design companies, scientific laboratories.
+
+4.2 Existing analogs, competitors
+Consulting companies, Official documentation internet portals, Unofficial documentation internet portals (for example http://openfoamwiki.net)
+
+4.3 Implementation plan by stages, time to implement, cost
+Fist stage: Search for the analysis of existing projects of numerical modeling on the Internet. 1 month
+Second stage: Structuring and cataloging the results. 3 week
+Third stage: Creation of the Internet portal, based on MediaWiki engine. 1 week
+Fourth stage: Adding project templates, filling out library pages, translating and formatting materials.
+Goal: 1000 pages of documentation. About 50 projects 22 months
+Total time duration: 2 years
