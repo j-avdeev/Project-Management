@@ -35,7 +35,7 @@ Total:            100%
 |                                          |  1  | 2 | 3 | 4 |
 | ---------------------------------------- | --- | --- | --- | --- |
 | Soft Deadline (50% reduction if missed)  | 14.10.2018 | --- | --- | --- |
-| Hard Deadline (100% reduction if missed) | 14.10.2018 | --- | --- | --- |
+| Hard Deadline (100% reduction if missed) | 21.10.2018 | --- | --- | --- |
 
 
 Results Table:
