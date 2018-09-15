@@ -1,6 +1,8 @@
 # Lab 1
 
-- To come up with a project
+- To come up with a project.
+Imagine that this is an application for an investor who needs to be persuaded of the success of the project.
+Project should have some scientific part. Duration of the project is not more than 2 years (before reaching financial self-sufficiency). The budget of the project is not more than $30 000.
 - To make application, send it for verification
 
 # Application contains the following info:
