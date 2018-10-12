@@ -9,7 +9,7 @@
 
 ## Course Outcomes
 After completing the course, the students should be able to:
-- understand Project Management purpose;
+- understand Project Management purpose, how to draw risk matrix, what the difference between project and project product, who needs status report, who is stakeholders, why it is important to make all agreements in writing;
 - well understand Project Lifecycle stages and processes;
 - understand Project planning templates;
 - understand Project Risk Management.
