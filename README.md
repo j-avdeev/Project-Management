@@ -34,9 +34,9 @@ Total:            100%
 
 |                                          |  1  | 2 | 3 | 4 |
 | ---------------------------------------- | --- | --- | --- | --- |
-| Soft Deadline (50% reduction if missed)  | 14.10.2018 | 28.10.2018 | 04.11.2018 | --- |
-| Hard Deadline (100% reduction if missed) | 21.10.2018 | 04.11.2018 | 11.11.2018 | --- |
+| Soft Deadline (50% reduction if missed)  | 14.10.2018 | 28.10.2018 | 04.11.2018 | 08.12.2018 |
+| Hard Deadline (100% reduction if missed) | 21.10.2018 | 04.11.2018 | 11.11.2018 | 16.12.2018 |
 
 
 Results Table:
-<ToDO>
+https://docs.google.com/spreadsheets/d/1pQ2hZwQMj1g7UK54wcmfj4DNyi5lNacBh1263CPnZz0/edit?usp=sharing
